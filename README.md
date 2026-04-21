@@ -1,2 +1,5 @@
 # app-dev
 My Third Repository
+|||
+ChaNGES THE README ACCORDING OT THE STI'S 
+INSTRUCTION
